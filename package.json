@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Daniel Raftery",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ThrivingKings/postcss-prefix-classless.git"
+  },
   "license": "MIT",
   "dependencies": {
     "postcss": "5.0.19"
